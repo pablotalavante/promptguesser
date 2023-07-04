@@ -1,0 +1,218 @@
+genre:
+  - rock
+  - pop
+  - jazz
+  - blues
+  - country
+  - classical
+  - electronic
+  - r&b
+  - rap
+  - hip hop
+  - metal
+  - punk
+  - reggae
+  - soul
+  - indie
+  - folk
+  - disco
+  - funk
+  - gospel
+  - bluegrass
+  - new age
+  - techno
+  - house
+  - dubstep
+  - trap
+  - drum and bass
+  - trance
+  - ambient
+  - downtempo
+  - ska
+  - swing
+  - bossa nova
+  - flamenco
+  - afrobeat
+  - grunge
+  - synth-pop
+  - k-pop
+  - latin
+  - salsa
+  - tango
+  - witch house
+  - noise rock
+  - math rock
+  - krautrock
+  - shoegaze
+  - skronk
+  - death metal
+  - black metal
+  - doom metal
+  - stoner rock
+  - glam rock
+  - art rock
+  - post-punk
+  - crust punk
+  - sludge metal
+  - post-metal
+  - nu-metal
+  - psychobilly
+  - space rock
+  - vaporwave
+  - chillwave
+  - synthwave
+  - dreampop
+  - seapunk
+  - plunderphonics
+  - musique concrete
+  - electroclash
+  - grime
+  - glitch hop
+  - chap hop
+  - speedcore
+  - breakcore
+  - gabber
+
+
+instrument:
+  - acoustic
+  - electric
+  - orchestral
+  - symphonic
+  - solo
+  - choir
+  - brass
+  - woodwind
+  - string
+  - percussion
+  - piano
+  - guitar
+  - drums
+  - bass
+  - violin
+  - cello
+  - saxophone
+  - harmonica
+  - synthesizer
+  - ukulele
+  - harp
+  - flute
+  - accordion
+  - didgeridoo
+  - bagpipes
+  - theremin
+  - sitar
+  - oud
+  - zither
+  - tabla
+  - balalaika
+  - marimba
+  - koto
+  - pan flute
+  - digeridoo
+  - harpsichord
+  - mellotron
+  - moog synthesizer
+  - glockenspiel
+  - dulcimer
+
+mood:
+  - sad
+  - mellow
+  - energetic
+  - relaxing
+  - angry
+  - melancholic
+  - uplifting
+  - dark
+  - bright
+  - sentimental
+  - optimistic
+  - pessimistic
+  - dramatic
+  - peaceful
+  - exciting
+  - intense
+  - romantic
+  - nostalgic
+  - mystical
+  - dreamy
+  - triumphant
+  - aggressive
+  - fun
+  - fierce
+  - calm
+  - powerful
+  - groovy
+  - emotional
+
+musical-elements:
+  - fast tempo
+  - slow tempo
+  - moderate tempo
+  - high pitch
+  - low pitch
+  - complex harmony
+  - simple harmony
+  - dissonant
+  - consonant
+  - major key
+  - minor key
+  - syncopation
+  - polyrhythm
+  - improvisational
+  - structured
+  - melodic
+  - harmonic
+  - rhythmic
+  - repetitive
+  - dynamic
+  - layered
+
+period:
+  - 50s
+  - 60s
+  - 70s
+  - 80s
+  - 90s
+  - 00s
+  - 10s
+  - 20s
+  - renaissance
+  - baroque
+  - classical period
+  - romantic period
+  - modernist
+  - postmodernist
+
+other:
+ - cinematic
+ - experimental
+ - avant-garde
+ - lo-fi
+ - hi-fi
+ - minimalist
+ - industrial
+ - goth
+ - psychedelic
+ - surf
+ - doo-wop
+ - a cappella
+ - heavy
+ - light
+ - danceable
+ - lounge
+ - chill
+ - grunge
+ - hardcore
+ - post-rock
+ - neo-classical
+ - opera
+ - alternative
+ - shoegaze
+ - new wave
+ - edm
+ - chiptune
+ - vaporwave
+ - ambient
+ - drone
